@@ -1,0 +1,23 @@
+{
+  "reaction": "🎩",
+  "reaction_status": "on",
+  "group": {
+    "status": "on",
+    "newSubject": "— 𝑷𝑹𝑨𝑰𝑺𝑬 𝑻𝑯𝑬 𝑭𝑶𝑶𝑳 🎩",
+    "newDescription": "— 𝑷𝑹𝑨𝑰𝑺𝑬 𝑻𝑯𝑬 𝑭𝑶𝑶𝑳 🎩\n\nقصر الأحمق | 🎩 https://wa.me/201026536641?text="
+  },
+  "messages": {
+    "status": "on",
+    "mention": "*— 𝑷𝑹𝑨𝑰𝑺𝑬 𝑻𝑯𝑬 𝑭𝑶𝑶𝑳 🎩*",
+    "final": "— 𝑻𝑯𝑬 𝑭𝑶𝑶𝑳 \n🎩 https://wa.me/201026536641?text="
+  },
+  "media": {
+    "status": "on",
+    "image": "media/4.jpg"
+  },
+  "audio": {
+    "file": "media/TF.mp3",
+    "status": "on"
+  },
+  "test_command": "الحاكم"
+}
